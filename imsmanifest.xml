@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6LXjeVKvak7_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Diabetes interaction</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Diabetes_interaction_ORG">
+    <organization identifier="Diabetes_interaction_ORG">
+      <title>Diabetes interaction</title>
+      <item identifier="Diabetes_interaction_SCO" isvisible="true" identifierref="__6LXjeVKvak7_course_id_RES">
+        <title>Diabetes interaction</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6LXjeVKvak7_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5yl9LJCPSjI_DX1440_DY1440_CX1132_CY849.jpg" />
+      <file href="mobile/6Ig6fDqHllK_DX328_DY328_CX256_CY210.png" />
+      <file href="mobile/5opiaMimrXr_X_DX228_DY228_CX178_CY147.png" />
+      <file href="mobile/6YZ6IIhCIXC_DX220_DY220_CX158_CY172.png" />
+      <file href="mobile/5Uh4zB7kcd6_DX344_DY344_CX267_CY125.png" />
+      <file href="mobile/6d0M02qIuka_DX220_DY220_CX105_CY172.png" />
+      <file href="mobile/6dniz04QE6x_DX1080_DY1080_CX849_CY849.jpg" />
+      <file href="mobile/6IZDOMSjQXo_DX396_DY396_CX311_CY311.png" />
+      <file href="mobile/6KDttw6op7T_DX288_DY288_CX212_CY226.png" />
+      <file href="mobile/6clZoJocA77_DX304_DY304_CX125_CY239.png" />
+      <file href="mobile/5w9hPWwJkIj_P_392_0_457_577_DX554_DY554_CX234_CY295.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6Rr8GjjaXfA.jpg" />
+      <file href="mobile/txt__default_6HHjAJkZlVK.png" />
+      <file href="mobile/txt__default_68g4iaXNX1H.png" />
+      <file href="mobile/txt__default_6gU8x7tdT46.png" />
+      <file href="mobile/txt__default_5YGhXOSGf8v.png" />
+      <file href="mobile/txt__default_5WS3oZVb6tg.png" />
+      <file href="mobile/txt__default_6ZiYWviy9XX.png" />
+      <file href="mobile/txt__default_5zU90gaGhZ5.png" />
+      <file href="mobile/txt__default_688p8sLCA4b.png" />
+      <file href="mobile/txt__default_6HGM3dvmLqF.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/60YqBqNS2QW.js" />
+      <file href="html5/data/js/6LVxYjl4c7o.js" />
+      <file href="html5/data/js/6nQfDd6xtqP.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
